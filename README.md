@@ -14,16 +14,7 @@
 ##
 
 My Main skills
- <!--Amazon Web Services-->
-<p align="left"> 
-src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <!--   -->
-<!--GNU Linux--> 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!--   -->
-<!--Docker-->
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <!--   -->
-  
-  <!--HTML-->
-  <a href="
+
   
   
   
