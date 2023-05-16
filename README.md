@@ -15,7 +15,6 @@
 
 My Main skills
  <!--Amazon Web Services-->
-<h2 align="left">Work / Skills</h2>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <!--   -->
 <!--GNU Linux--> 
