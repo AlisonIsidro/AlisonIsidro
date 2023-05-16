@@ -15,7 +15,6 @@
 
 <div style="display: flex; gap: 10px; width: 100%;">
 ### My Main skills
-
 <!--Amazon Web Services-->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <!-- -->
 <!--GNU Linux-->
@@ -26,6 +25,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <!-- -->
 <!--HTMLeCSS-->
 [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
+  
 </div>
 
 
