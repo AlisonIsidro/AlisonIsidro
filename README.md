@@ -12,7 +12,9 @@
 </div>
 
 ##
+<div style="display: flex; gap: 10px; width: 100%;">
 ### My Main skills
+
 <!--Amazon Web Services-->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <!-- -->
 <!--GNU Linux-->
