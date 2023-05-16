@@ -17,7 +17,7 @@
 
 <!--AWS-->
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img
-src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="40"/> </a> <!--   -->
+src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="90" height="40"/> </a> <!--   -->
 
 <!--Terraform-->
 <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="aws" width="40" height="40"/> </a> <!--   -->
