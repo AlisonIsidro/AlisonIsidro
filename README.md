@@ -43,7 +43,7 @@ height="40"/> </a> <!-- -->
 
 ##
 
-### Send me a message let's talk
+### Send me a message, let's talk!
 
 <a href = "mailto:alison53.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alison-i-3576b91a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
