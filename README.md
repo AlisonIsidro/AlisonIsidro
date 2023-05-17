@@ -15,7 +15,7 @@
 
 ##
 
-### My main skills:
+### These are my main skills:
 <div style="display: flex; gap: 10px; width: 100%;">
 <!--Amazon Web Services-->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <!-- -->
@@ -43,7 +43,7 @@ height="40"/> </a> <!-- -->
 
 ##
 
-### My Contact:
+### Send me a message let's talk
 
 <a href = "mailto:alison53.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alison-i-3576b91a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
