@@ -3,7 +3,7 @@
 
 -  💻 I’m currently working at Darede as an Assistant of Cloud Infrastructure
 -  🕮 Currently learning AWS, Docker, HTML, CSS, Python, Linux, Terraform, FinOps Culture...
--  ☁️ AWS Certified
+-  ☁️ I have two AWS Certified: AWS Cloud Practitioner and AWS Solutions Architect Associate and I'm studying for AWS SysOps Administratpr, FinOps Practitioner and Terraform Associate.
 ##
 
 ### Github Stats:
