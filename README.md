@@ -43,6 +43,12 @@ height="40"/> </a> <!-- -->
 
 ##
 
+<div id="header" align="center">
+<img align="Center" height="500em" src="https://github.com/AlisonIsidro/AlisonIsidro/blob/output/github-contribution-grid-snake.svg"/>
+</div>  
+
+##
+
 ### Send me a message, let's talk!
 
 <a href = "mailto:alison53.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
