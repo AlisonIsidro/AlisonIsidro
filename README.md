@@ -37,10 +37,12 @@ height="40"/> </a> <!-- -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img 
 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="css" width="80" 
 height="40"/> </a> <!-- -->
-  
- ![Snake animation](https://github.com/AlisonIsidro/AlisonIsidro/blob/output/github-contribution-grid-snake.svg)
+
+
+![Snake animation](https://github.com/AlisonIsidro/AlisonIsidro/blob/output/github-contribution-grid-snake.svg)
 
 ##
+
 </div>
 
 
