@@ -41,11 +41,6 @@ height="40"/> </a> <!-- -->
   
 </div>
 
-##
-
-<div id="header" align="center">
-<img align="Center" height="500em" src="https://github.com/AlisonIsidro/AlisonIsidro/blob/output/github-contribution-grid-snake.svg"/>
-</div>  
 
 ##
 
